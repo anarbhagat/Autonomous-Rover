@@ -77,7 +77,7 @@ This project presents an autonomous rover system with advanced navigation and ob
 ---
 
 ## 📷 Media (Optional)
-> ![Electronic connection block diagram](rover1.jpg)
+> ![Electronic connection block diagram](rover1.png)
 
 ---
 
